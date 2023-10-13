@@ -1,0 +1,9 @@
+var a;
+a = 1;
+function f(a, b) {
+    a + b;
+}
+
+var b;
+b = f(1, 2);
+b;
